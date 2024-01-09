@@ -1,0 +1,15 @@
+#iteration:
+l=[10,20,30,40,50]
+x=iter(l)
+a=next(x)
+print(a)
+b=next(x)
+print(b)
+c=next(x)
+print(c)
+d=next(x)
+print(d)
+e=next(x)
+print(e)
+f=next(x)
+print(f)
