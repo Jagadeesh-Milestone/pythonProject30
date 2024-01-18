@@ -23,6 +23,6 @@ print(name)
 userONE='naresh'
 print(userONE)
 
-#python is case sensitive
+#python is case-sensitive
 #userTWO='harish'
-#print(usertwo)
+#print(usertwo).
