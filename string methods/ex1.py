@@ -27,7 +27,7 @@ print(x.isupper())
 #is lower:
 #it will return true if each letter of a string is in lower case.
 #otherwise it returns false.
-y='Hello python'
+y='hello python'
 print(y.islower())
 
 #title:
