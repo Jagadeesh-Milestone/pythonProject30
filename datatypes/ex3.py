@@ -18,7 +18,8 @@ print(b)
 #list allows duplicate values.
 c=[10,20,30,10,20]
 print(c)
-
+c[0]=100
+print(c)
 #len:
 #it is used to find the no of values in a list.
 d=[1,2,3,4,3,66,7,5]
