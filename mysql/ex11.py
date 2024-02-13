@@ -11,3 +11,4 @@ mycursor.execute('SELECT id,name FROM users')
 result=mycursor.fetchall()
 for i in result:
     print(i)
+    print('hello world')

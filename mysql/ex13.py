@@ -12,3 +12,4 @@ mycursor.execute('SELECT * FROM users WHERE address LIKE "%ai%"')
 result=mycursor.fetchall()
 for i in result:
     print(i)
+print('hello world')

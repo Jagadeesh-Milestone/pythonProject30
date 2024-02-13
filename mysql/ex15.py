@@ -16,3 +16,5 @@ mycursor.execute('SELECT * FROM users ORDER BY id DESC')
 result=mycursor.fetchall()
 for i in result:
     print(i)
+
+print('hello world')

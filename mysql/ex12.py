@@ -12,3 +12,6 @@ mycursor.execute('SELECT * FROM users WHERE name="hari"')
 result=mycursor.fetchall()
 for i in result:
     print(i)
+
+
+print('hello world')

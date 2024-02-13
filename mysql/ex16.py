@@ -12,3 +12,5 @@ mycursor.execute('SELECT * FROM users LIMIT 5 OFFSET 4')
 result=mycursor.fetchall()
 for i in result:
     print(i)
+
+print('hello world')
